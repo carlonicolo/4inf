@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;carlonicolo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/carlonicolo/3tps.git&quot;,
+    &quot;accountId&quot;: &quot;be65ae18-e1cf-4e76-ad45-42c3cf74816d&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2t32aCGmgURULXd3VJHdIbBlRwR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab1INF52.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82HashMap.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82LinkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82Queue.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82Stack.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sottoclassi.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modulo52Salvador_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modulo52Salvador_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karlitos/git/LabScuola/3tps/Java/CorsoJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sottoclassi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lab1INF52.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1INF52.Main" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1INF52.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab82LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab82LinkedList.Main" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab82LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab82Queue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab82Queue.Main" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab82Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab82Stack.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab82Stack.Main" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab82Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CorsoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lab1INF52.Main" />
+        <item itemvalue="Application.Lab82Stack.Main" />
+        <item itemvalue="Application.Lab82Queue.Main" />
+        <item itemvalue="Application.Lab82LinkedList.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="" />
+      <created>1739566500959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739566500959</updated>
+      <workItem from="1739566502425" duration="2042000" />
+      <workItem from="1739570929026" duration="29000" />
+      <workItem from="1739825567934" duration="901000" />
+      <workItem from="1742304727003" duration="83000" />
+      <workItem from="1742304991354" duration="340000" />
+      <workItem from="1743540578171" duration="846000" />
+      <workItem from="1744060209202" duration="2364000" />
+      <workItem from="1744135193550" duration="1069000" />
+      <workItem from="1744136954559" duration="1528000" />
+      <workItem from="1744309007762" duration="4714000" />
+      <workItem from="1744318849229" duration="1212000" />
+      <workItem from="1744665282240" duration="1304000" />
+      <workItem from="1744920798065" duration="2781000" />
+      <workItem from="1745857046054" duration="1898000" />
+      <workItem from="1745859299002" duration="1739000" />
+      <workItem from="1745870094634" duration="2473000" />
+      <workItem from="1745873130155" duration="79000" />
+      <workItem from="1745956997492" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
