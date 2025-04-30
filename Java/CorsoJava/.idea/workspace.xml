@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab82DataStructures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab82DataStructures/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +52,12 @@
     "Application.HelloMain.executor": "Run",
     "Application.Lab1INF52.Main.executor": "Run",
     "Application.Lab82AdvancedThread.Main.executor": "Run",
+    "Application.Lab82DataStructures.Main.executor": "Run",
     "Application.Lab82HashMap.Main.executor": "Run",
     "Application.Lab82LinkedList.Main.executor": "Run",
     "Application.Lab82Queue.Main.executor": "Run",
     "Application.Lab82Stack.Main.executor": "Run",
+    "Application.Lab82Thread.Main (1).executor": "Run",
     "Application.Lab82Thread.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Sottoclassi.Main.executor": "Run",
@@ -81,19 +84,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Lab82AdvancedThread.Main">
-    <configuration name="Lab1INF52.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1INF52.Main" />
-      <module name="CorsoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab1INF52.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lab82AdvancedThread.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab82AdvancedThread.Main" />
       <module name="CorsoJava" />
@@ -107,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab82Stack.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab82Stack.Main" />
+    <configuration name="Lab82DataStructures.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab82DataStructures.Main" />
       <module name="CorsoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab82Stack.*" />
+          <option name="PATTERN" value="Lab82DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab82Thread.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab82Thread.Main" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab82Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,10 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lab82AdvancedThread.Main" />
+        <item itemvalue="Application.Lab82Thread.Main (1)" />
+        <item itemvalue="Application.Lab82DataStructures.Main" />
         <item itemvalue="Application.Lab82Thread.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Lab1INF52.Main" />
-        <item itemvalue="Application.Lab82Stack.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +187,7 @@
       <workItem from="1745870094634" duration="2473000" />
       <workItem from="1745873130155" duration="79000" />
       <workItem from="1745956997492" duration="178000" />
-      <workItem from="1746039248376" duration="3572000" />
+      <workItem from="1746039248376" duration="6736000" />
     </task>
     <servers />
   </component>
