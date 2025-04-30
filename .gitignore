@@ -2,30 +2,30 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
+Java/CorsoJava/.idea/**/workspace.xml
+Java/CorsoJava/.idea/**/tasks.xml
+Java/CorsoJava/.idea/**/usage.statistics.xml
+Java/CorsoJava/.idea/**/dictionaries
+Java/CorsoJava/.idea/**/shelf
 
 # AWS User-specific
-.idea/**/aws.xml
+Java/CorsoJava/.idea/**/aws.xml
 
 # Generated files
-.idea/**/contentModel.xml
+Java/CorsoJava/.idea/**/contentModel.xml
 
 # Sensitive or high-churn files
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
+Java/CorsoJava/.idea/**/dataSources/
+Java/CorsoJava/.idea/**/dataSources.ids
+Java/CorsoJava/.idea/**/dataSources.local.xml
+Java/CorsoJava/.idea/**/sqlDataSources.xml
+Java/CorsoJava/.idea/**/dynamic.xml
+Java/CorsoJava/.idea/**/uiDesigner.xml
+Java/CorsoJava/.idea/**/dbnavigator.xml
 
 # Gradle
-.idea/**/gradle.xml
-.idea/**/libraries
+Java/CorsoJava/.idea/**/gradle.xml
+Java/CorsoJava/.idea/**/libraries
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
@@ -44,26 +44,26 @@
 cmake-build-*/
 
 # Mongo Explorer plugin
-.idea/**/mongoSettings.xml
+Java/CorsoJava/.idea/**/mongoSettings.xml
 
 # File-based project format
-*.iws
+Java/CorsoJava/*.iws
 
 # IntelliJ
-out/
+Java/CorsoJava/out/
 
 # mpeltonen/sbt-idea plugin
-.idea_modules/
+Java/CorsoJava/.idea_modules/
 
 # JIRA plugin
-atlassian-ide-plugin.xml
+Java/CorsoJava/atlassian-ide-plugin.xml
 
 # Cursive Clojure plugin
-.idea/replstate.xml
+Java/CorsoJava/.idea/replstate.xml
 
 # SonarLint plugin
-.idea/sonarlint/
-.idea/sonarlint.xml # see https://community.sonarsource.com/t/is-the-file-idea-idea-idea-sonarlint-xml-intended-to-be-under-source-control/121119
+Java/CorsoJava/.idea/sonarlint/
+Java/CorsoJava/.idea/sonarlint.xml # see https://community.sonarsource.com/t/is-the-file-idea-idea-idea-sonarlint-xml-intended-to-be-under-source-control/121119
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
@@ -72,10 +72,10 @@ crashlytics-build.properties
 fabric.properties
 
 # Editor-based Rest Client
-.idea/httpRequests
+Java/CorsoJava/.idea/httpRequests
 
 # Android studio 3.1+ serialized cache file
-.idea/caches/build_file_checksums.ser
+Java/CorsoJava/.idea/caches/build_file_checksums.ser
 
 # Compiled class file
 *.class
