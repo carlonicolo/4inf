@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="" />
+    <list default="true" id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorsoJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CorsoJava.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,43 +47,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab1INF52.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82AdvancedThread.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82DataStructures.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82HashMap.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82LinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Queue.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Stack.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Thread.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Thread.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sottoclassi.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.modulo52Salvador_1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.modulo52Salvador_2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karlitos/git/LabScuola/4inf/Java/CorsoJava&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calcolatrice.executor": "Run",
+    "Application.HelloMain.executor": "Run",
+    "Application.Lab1INF52.Main.executor": "Run",
+    "Application.Lab82AdvancedThread.Main.executor": "Run",
+    "Application.Lab82DataStructures.Main.executor": "Run",
+    "Application.Lab82HashMap.Main.executor": "Run",
+    "Application.Lab82LinkedList.Main.executor": "Run",
+    "Application.Lab82Queue.Main.executor": "Run",
+    "Application.Lab82Stack.Main.executor": "Run",
+    "Application.Lab82Thread.Main (1).executor": "Run",
+    "Application.Lab82Thread.Main.executor": "Run",
+    "Application.LabINF72Function.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Sottoclassi.Main.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.modulo52Salvador_1.Main.executor": "Run",
+    "Application.modulo52Salvador_2.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Karlitos/git/LabScuola/4inf/Java/CorsoJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Sottoclassi" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab82AdvancedThread.Main">
+  <component name="RunManager" selected="Application.Calcolatrice">
+    <configuration name="Calcolatrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab72JavaFX.Calcolatrice" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab72JavaFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab82AdvancedThread.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab82AdvancedThread.Main" />
       <module name="CorsoJava" />
@@ -120,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab82Thread.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab82Thread.Main" />
+    <configuration name="LabINF72Function.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabINF72Function.Main" />
       <module name="CorsoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab82Thread.*" />
+          <option name="PATTERN" value="LabINF72Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,20 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CorsoJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calcolatrice" />
+        <item itemvalue="Application.LabINF72Function.Main" />
         <item itemvalue="Application.Lab82AdvancedThread.Main" />
         <item itemvalue="Application.Lab82Thread.Main (1)" />
         <item itemvalue="Application.Lab82DataStructures.Main" />
-        <item itemvalue="Application.Lab82Thread.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +201,12 @@
       <workItem from="1746039248376" duration="6736000" />
       <workItem from="1746047082259" duration="25000" />
       <workItem from="1746047292176" duration="16000" />
+      <workItem from="1746265115822" duration="545000" />
+      <workItem from="1746266524683" duration="189000" />
+      <workItem from="1746627975560" duration="4668000" />
+      <workItem from="1746643639349" duration="842000" />
+      <workItem from="1746646986828" duration="886000" />
+      <workItem from="1746653205393" duration="355000" />
     </task>
     <servers />
   </component>
