@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/INF62Lab1/CalcolatriceSwing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +69,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karlitos/git/LabScuola/4inf/Java/CorsoJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlo/git/LabScuola/4inf/Java/CorsoJava&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -213,6 +213,8 @@
       <workItem from="1747327404656" duration="128000" />
       <workItem from="1747327548184" duration="525000" />
       <workItem from="1747334100922" duration="903000" />
+      <workItem from="1747425670629" duration="661000" />
+      <workItem from="1747427675858" duration="923000" />
     </task>
     <servers />
   </component>
