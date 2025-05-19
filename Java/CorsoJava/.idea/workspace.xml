@@ -46,6 +46,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calcolatrice.executor": "Run",
@@ -82,6 +83,44 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calcolatrice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalcolatriceSwing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab1INF52.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82AdvancedThread.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82DataStructures.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82HashMap.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82LinkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82Queue.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82Stack.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82Thread.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82Thread.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabINF72Function.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sottoclassi.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modulo52Salvador_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modulo52Salvador_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlo/git/LabScuola/4inf/Java/CorsoJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> 147abf78b2ec158ec500eba39e3526d128d97b49
   }
 }]]></component>
   <component name="RecentsManager">
@@ -213,8 +252,13 @@
       <workItem from="1747327404656" duration="128000" />
       <workItem from="1747327548184" duration="525000" />
       <workItem from="1747334100922" duration="903000" />
+<<<<<<< HEAD
       <workItem from="1747342031587" duration="106000" />
       <workItem from="1747343276952" duration="245000" />
+=======
+      <workItem from="1747425670629" duration="661000" />
+      <workItem from="1747427675858" duration="923000" />
+>>>>>>> 147abf78b2ec158ec500eba39e3526d128d97b49
     </task>
     <servers />
   </component>
