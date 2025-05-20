@@ -1,0 +1,105 @@
+package TestModulo62;
+
+import java.util.ArrayList;
+
+//Crea un semplice programma che utilizzi almeno una classe astratta
+// due interfacce, 3 sottclassi e che nel test utilizzi instanceof.
+abstract class Professore {
+    String materia;
+    int oreLezione;
+
+    Professore(String materia, int oreLezione) {
+        this.materia = materia;
+        this.oreLezione = oreLezione;
+    }
+
+    abstract void saluto();
+
+    interface Valutabile {
+        void esame();
+
+        void interrogazione();
+    }
+
+    interface Sostituibile {
+        void sostituzione();
+    }
+
+    class Informatica extends Professore implements Valutabile {
+        String nomeProfessore;
+
+        Informatica(String materia, int oreLezione, String nomeProfessore) {
+            super(materia, oreLezione);
+            this.nomeProfessore = nomeProfessore;
+        }
+
+        public void saluto() {
+            System.out.println("Buon giorno a tutti!");
+        }
+
+        public void esame() {
+            System.out.println("Oggi facciamo l'esame , tutti pronti!");
+        }
+
+        public void interrogazione() {
+            System.out.println("Oggi interrogo a caso!!");
+        }
+    }
+
+    class Matematica extends Professore implements Valutabile {
+        int studentiBocciati;
+
+        Matematica(String materia, int oreLezione, int studentiBocciati) {
+            super(materia, oreLezione);
+            this.studentiBocciati = studentiBocciati;
+        }
+
+        public void saluto() {
+            System.out.println("Buon giorno a tutti!");
+        }
+
+        public void esame() {
+            System.out.println("Oggi falciamo asinelli!");
+        }
+
+        public void interrogazione() {
+            System.out.println("Vieni alla lavagna!!");
+        }
+    }
+
+    class Italiano extends Professore implements Sostituibile {
+        int etaMegera;
+
+        Italiano(String materia, int oreLezione, int etaMegera) {
+            super(materia, oreLezione);
+            this.etaMegera = etaMegera;
+        }
+
+        public void saluto() {
+            System.out.println("Buongiorno a tutti i miei poeti!");
+        }
+
+        public void sostituzione() {
+            System.out.println("Quello di informatica è in vacanza quindi oggi studiamo Pascoli");
+        }
+    }
+
+
+    public static void main(String[] args) {
+
+        ArrayList<Professore> listaInsegnanti = new ArrayList<>();
+        listaInsegnanti.add(new Informatica("TPS", 3, "Carlo Nicolo"));
+        listaInsegnanti.add(new Italiano("Letteratura", 5, 65));
+        listaInsegnanti.add(new Matematica("Geometria", 8, 3));
+
+        for (Professore insegnante : listaInsegnanti) {
+            insegnante.saluto();
+
+            if (insegnante instanceof Sostituibile s) {
+                s.sostituzione();
+            }
+        }
+
+    }
+}
+

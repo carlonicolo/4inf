@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="">
+    <list default="true" id="85b2c8c3-80ec-487e-b3b6-fd5e2954d644" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,181 +12,65 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;carlonicolo&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "carlonicolo"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/carlonicolo/4inf.git&quot;,
-    &quot;accountId&quot;: &quot;be65ae18-e1cf-4e76-ad45-42c3cf74816d&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/carlonicolo/4inf.git",
+    "accountId": "be65ae18-e1cf-4e76-ad45-42c3cf74816d"
   }
-}</component>
-  <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2t32aCGmgURULXd3VJHdIbBlRwR" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2xKd5VQWmw5yXloRNQuXTI274Eh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calcolatrice.executor": "Run",
-    "Application.CalcolatriceSwing.executor": "Run",
-    "Application.HelloMain.executor": "Run",
-    "Application.Lab1INF52.Main.executor": "Run",
-    "Application.Lab82AdvancedThread.Main.executor": "Run",
-    "Application.Lab82DataStructures.Main.executor": "Run",
-    "Application.Lab82HashMap.Main.executor": "Run",
-    "Application.Lab82LinkedList.Main.executor": "Run",
-    "Application.Lab82Queue.Main.executor": "Run",
-    "Application.Lab82Stack.Main.executor": "Run",
-    "Application.Lab82Thread.Main (1).executor": "Run",
-    "Application.Lab82Thread.Main.executor": "Run",
-    "Application.LabINF72Function.Main.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Sottoclassi.Main.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.modulo52Salvador_1.Main.executor": "Run",
-    "Application.modulo52Salvador_2.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Karlitos/git/LabScuola/4inf/Java/CorsoJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
-=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Calcolatrice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalcolatriceSwing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab1INF52.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82AdvancedThread.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82DataStructures.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82HashMap.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82LinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Queue.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Stack.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Thread.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82Thread.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LabINF72Function.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sottoclassi.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.modulo52Salvador_1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.modulo52Salvador_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Professore.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlo/git/LabScuola/4inf/Java/CorsoJava&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
->>>>>>> 147abf78b2ec158ec500eba39e3526d128d97b49
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Sottoclassi" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Calcolatrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab72JavaFX.Calcolatrice" />
-      <module name="CorsoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab72JavaFX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalcolatriceSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INF62Lab1.CalcolatriceSwing" />
-      <module name="CorsoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="INF62Lab1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LabINF72Function.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LabINF72Function.Main" />
-      <module name="CorsoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LabINF72Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INF62Lab2.Main" />
-      <module name="CorsoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="INF62Lab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Professore">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INF62Lab2.Main" />
+      <option name="MAIN_CLASS_NAME" value="TestModulo62.Main" />
       <module name="CorsoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="INF62Lab2.*" />
+          <option name="PATTERN" value="TestModulo62.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Professore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestModulo62.Professore" />
+      <module name="CorsoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestModulo62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.CalcolatriceSwing" />
+        <item itemvalue="Application.Professore" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Calcolatrice" />
-        <item itemvalue="Application.LabINF72Function.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,53 +93,15 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39cfaf78-b920-4139-8cb9-f8fdb4107699" name="Changes" comment="" />
-      <created>1739566500959</created>
+      <changelist id="85b2c8c3-80ec-487e-b3b6-fd5e2954d644" name="Changes" comment="" />
+      <created>1747689292081</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739566500959</updated>
-      <workItem from="1739566502425" duration="2042000" />
-      <workItem from="1739570929026" duration="29000" />
-      <workItem from="1739825567934" duration="901000" />
-      <workItem from="1742304727003" duration="83000" />
-      <workItem from="1742304991354" duration="340000" />
-      <workItem from="1743540578171" duration="846000" />
-      <workItem from="1744060209202" duration="2364000" />
-      <workItem from="1744135193550" duration="1069000" />
-      <workItem from="1744136954559" duration="1528000" />
-      <workItem from="1744309007762" duration="4714000" />
-      <workItem from="1744318849229" duration="1212000" />
-      <workItem from="1744665282240" duration="1304000" />
-      <workItem from="1744920798065" duration="2781000" />
-      <workItem from="1745857046054" duration="1898000" />
-      <workItem from="1745859299002" duration="1739000" />
-      <workItem from="1745870094634" duration="2473000" />
-      <workItem from="1745873130155" duration="79000" />
-      <workItem from="1745956997492" duration="178000" />
-      <workItem from="1746039248376" duration="6736000" />
-      <workItem from="1746047082259" duration="25000" />
-      <workItem from="1746047292176" duration="16000" />
-      <workItem from="1746265115822" duration="545000" />
-      <workItem from="1746266524683" duration="189000" />
-      <workItem from="1746627975560" duration="4668000" />
-      <workItem from="1746643639349" duration="842000" />
-      <workItem from="1746646986828" duration="886000" />
-      <workItem from="1746653205393" duration="355000" />
-      <workItem from="1747323957624" duration="1269000" />
-      <workItem from="1747325581227" duration="599000" />
-      <workItem from="1747327404656" duration="128000" />
-      <workItem from="1747327548184" duration="525000" />
-      <workItem from="1747334100922" duration="903000" />
-<<<<<<< HEAD
-      <workItem from="1747342031587" duration="106000" />
-      <workItem from="1747343276952" duration="245000" />
-=======
-      <workItem from="1747425670629" duration="661000" />
-      <workItem from="1747427675858" duration="923000" />
->>>>>>> 147abf78b2ec158ec500eba39e3526d128d97b49
+      <updated>1747689292081</updated>
+      <workItem from="1747689294721" duration="1206000" />
+      <workItem from="1747690520485" duration="395000" />
     </task>
     <servers />
   </component>
