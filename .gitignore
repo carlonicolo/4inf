@@ -130,4 +130,6 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store.idea
+Java/CorsoJava/.idea
+Java/Calcolatrice/.idea
